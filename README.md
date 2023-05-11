@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orlikagan from Tel Aviv ,Israel.
 - 👀 I’m Data Analysis with vast experience in marketing and business world.
 - 🌱 Python skills: Pandas, Numpy, Matplotlib, Plotly, Seaborn.
-- ML aLGO : 
+- ML Algorithms : 
 Linear Regression,Logistic Regression,Decision Tree,K-Means, Random Forest
 Gradient Boosting algorithms: XGBoost.
 
