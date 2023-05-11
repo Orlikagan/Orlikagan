@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Orlikagan from Tel Aviv ,Israel
-- 👀 I’m interested in Data Analysis positons
+- 👋 Hi, I’m @Orlikagan from Tel Aviv ,Israel.
+- 👀 I’m Data Analysis with vast expirience in marketing and business world.
 - 🌱 Python skills: Pandas, Numpy, Matplotlib, Plotly, Seaborn, 
-- 💞️ I’m looking to collaborate on Marketing psycology Data reaserch
+- 💞️ I’m up to collaborate on data research in Marketing psycology ,user behavior.
 - 📫 You can reach me on Linkedin or by email.
 
 <!---
