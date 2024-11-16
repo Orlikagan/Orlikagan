@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Orlikagan from Tel Aviv ,Israel.
-- 👀 I’m Data Analyst with 4 years of experience ,in global markets , specielizing in marketing and business world.
+- 👀 I have 4 years of experience ad Data Analyst.
 - 🌱 Python skills: Pandas, Numpy, Matplotlib, Plotly, Seaborn.
 - ML Algorithms : 
 Linear Regression,Logistic Regression,Decision Tree,K-Means, Random Forest
