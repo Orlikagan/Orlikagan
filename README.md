@@ -90,10 +90,11 @@ The analysis was executed across 5 sequential script files available in the repo
     </td>
   </tr>
 </table>
+---
 ### Core Analytical Capabilities & Frameworks
 
 <details>
-<summary><b>📐 Click to view: Data Cleaning & Preprocessing Framework</b></summary>
+<summary><b>Data Cleaning & Preprocessing Framework</b></summary>
 <br>
 Whenever handling raw datasets (such as the E-Commerce portfolio project), I follow a strict preprocessing protocol:
 1. Identifying and isolating structural anomalies or missing values.
@@ -102,7 +103,7 @@ Whenever handling raw datasets (such as the E-Commerce portfolio project), I fol
 </details>
 
 <details>
-<summary><b> Click to view: Business Intelligence & Reporting</b></summary>
+<summary><b> Business Intelligence & Reporting</b></summary>
 <br>
 Data is only as valuable as the decisions it drives. I complement my programming work by creating executive presentations (as seen in the Retail Store project) that translate complex data models into clear, actionable business strategies for cross-functional stakeholders.
 </details>
