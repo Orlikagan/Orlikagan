@@ -6,7 +6,6 @@
   <a href="mailto:orlyka2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
----
 
 ###  Technical Toolkit
 <p align="center">
@@ -21,9 +20,9 @@
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <h3>🛒 E-Commerce Customer Behavior & Multi-Category Funnel Analysis</h3>
+      <h3> E-Commerce Customer Behavior & Multi-Category Funnel Analysis</h3>
       <p><strong>Executive Summary:</strong> Analysed a massive dataset of 2,097,150 user session events (views, cart additions, cart removals, and purchases) spanning 332,902 distinct users over October and November 2019. Built an end-to-end relational data pipeline in SQL Server (SSMS) to join fragmented operational logs, isolate data anomalies, map out drop-off metrics, and evaluate how pricing dynamics and brand equity impact user conversion lifecycles.</p>
-      <p>🔧 <em>Tools used: T-SQL, Microsoft SQL Server Management Studio (SSMS), Relational Schema Design</em></p>
+      <p> <em>Tools used: T-SQL, Microsoft SQL Server Management Studio (SSMS), Relational Schema Design</em></p>
       
       <!-- Action Buttons for Download and View -->
       <p>
