@@ -90,7 +90,7 @@ The analysis was executed across 5 sequential script files available in the repo
     </td>
   </tr>
 </table>
----
+
 ### Core Analytical Capabilities & Frameworks
 
 <details>
